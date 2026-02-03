@@ -56,5 +56,6 @@ I enjoy building **end-to-end systems** that combine perception, decision-making
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1erophant&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1erophant&show_icons=true&theme=tokyonight)
+
 
