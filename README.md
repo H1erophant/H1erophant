@@ -58,5 +58,8 @@ I enjoy building **end-to-end systems** that combine perception, decision-making
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1erophant&show_icons=true&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=H1erophant&theme=tokyonight&hide_border=true)
+
+
 
 
